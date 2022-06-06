@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escritura bite", "Escritura bite.csproj", "{6FB045A8-E6E3-4EDA-96E8-BF9E010AEE5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FB045A8-E6E3-4EDA-96E8-BF9E010AEE5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FB045A8-E6E3-4EDA-96E8-BF9E010AEE5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FB045A8-E6E3-4EDA-96E8-BF9E010AEE5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FB045A8-E6E3-4EDA-96E8-BF9E010AEE5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1351B46-8DA4-47C8-8F91-21637D85A1B5}
+	EndGlobalSection
+EndGlobal

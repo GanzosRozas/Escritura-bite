@@ -1,0 +1,7 @@
+C:\Users\SKU-81583\Desktop\Gits\Escritura-bite\Escritura bite\bin\Debug\Escritura bite.exe.config
+C:\Users\SKU-81583\Desktop\Gits\Escritura-bite\Escritura bite\bin\Debug\Escritura bite.exe
+C:\Users\SKU-81583\Desktop\Gits\Escritura-bite\Escritura bite\bin\Debug\Escritura bite.pdb
+C:\Users\SKU-81583\Desktop\Gits\Escritura-bite\Escritura bite\obj\Debug\Escritura bite.csproj.AssemblyReference.cache
+C:\Users\SKU-81583\Desktop\Gits\Escritura-bite\Escritura bite\obj\Debug\Escritura bite.csproj.CoreCompileInputs.cache
+C:\Users\SKU-81583\Desktop\Gits\Escritura-bite\Escritura bite\obj\Debug\Escritura bite.exe
+C:\Users\SKU-81583\Desktop\Gits\Escritura-bite\Escritura bite\obj\Debug\Escritura bite.pdb
