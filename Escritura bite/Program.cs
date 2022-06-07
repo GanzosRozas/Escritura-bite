@@ -19,11 +19,13 @@ namespace Escritura_bite
                 //crea el flujo de archivo
                 fs = new FileStream("Text.txt", FileMode.Create,FileAccess.Write);
                 Console.WriteLine("Escriba el texto que desea almacenar en el archivo");
-                while ((car = Console.Read()) != '\r' && (nbytes < buffer.Length)) ;
+                while ((car = Console.Read()) != '\r' && (nbytes < buffer.Length)) 
                 {
                     buffer[nbytes] = (byte)car;
                     nbytes++;
                 }
+                fs.Write(buffer, 0, nbytes);
+
             }
             catch (IOException e)
             {
